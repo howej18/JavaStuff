@@ -1,0 +1,6 @@
+name: HashMaps
+main: me.happyorks.HashMaps.Main
+version: 1.0
+description: >
+             Counts pickups.
+commands: 

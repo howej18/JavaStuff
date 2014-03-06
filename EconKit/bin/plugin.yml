@@ -1,0 +1,19 @@
+name: EconKit
+version: 1.0
+main: me.happyorks.EconKit.EconKitMain
+description: simple kit plugin
+depend: [Vault]
+
+commands:
+    kit:
+    kitbasic:
+    kitstone:
+    kitiron:
+    kitironarmor:
+    kitdiamond:
+    kitdiamondarmor:
+    kitranger:
+    ci:
+    sell:
+    store:
+    

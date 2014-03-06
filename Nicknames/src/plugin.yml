@@ -1,0 +1,10 @@
+name: Nicknames
+version: 1.0
+main: me.happyorks.Nicknames.Main
+description: give yourself a nickname
+
+commands:
+    nick:
+        usage: /<command> <nickname>
+        aliases: [nickname, n]
+        description: give yourself a nickname

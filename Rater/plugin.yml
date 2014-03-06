@@ -1,0 +1,10 @@
+name: Rater
+main: me.happyorks.Rater.Rater
+version: 1.0
+description: >
+             My first rating Plugin.
+commands:
+  rateme:
+    description: RATEME!
+    
+  

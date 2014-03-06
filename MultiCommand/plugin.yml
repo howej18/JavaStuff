@@ -1,0 +1,17 @@
+name: MultiCommand
+main: me.happyorks.MultiCommand.MultiCommand
+version: 1.0
+description: >
+             My first Plugin.
+commands:
+  heal:
+    description: heals players.
+    aliases: [h]
+  jakeport:
+    description: teleports players.
+    aliases: [jp]
+  time:
+    description: sets time.
+    
+   
+  

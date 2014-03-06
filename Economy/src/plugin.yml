@@ -1,0 +1,7 @@
+name: SmallEconomy
+version: 0.1
+main: me.happyorks.Economy.SmallEconomy
+
+commands:
+    econ:
+        description: economy command with 3 args.

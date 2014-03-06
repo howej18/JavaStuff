@@ -1,0 +1,5 @@
+name: TNT2CAKE
+author: happyorks
+version: 1.0
+description: turns TNT to cake for no-opped players
+main: me.happyorks.TNT2CAKE.Main

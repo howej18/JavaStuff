@@ -1,0 +1,7 @@
+name: EnterWithABang
+main: me.happyorks.EnterWithABang.Main
+version: 1.0
+description: >
+             Launches firework on connection. 
+
+  

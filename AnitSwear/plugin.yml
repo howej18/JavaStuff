@@ -1,0 +1,5 @@
+name: AntiSwear
+author: happyorks
+version: 1.0
+description: Bans bad words
+main: me.happyorks.AntiSwear.Main

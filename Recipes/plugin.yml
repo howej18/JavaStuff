@@ -1,0 +1,6 @@
+name: Recipes
+author: happyorks
+version: 1.0
+description: creates new crafting recipes!
+main: me.happyorks.recipes.Main
+commands:

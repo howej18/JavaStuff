@@ -1,0 +1,7 @@
+name: firework
+main: me.happyorks.FW.Main
+description: shoots fireworks
+
+commands:
+    fw:
+        shoots firework

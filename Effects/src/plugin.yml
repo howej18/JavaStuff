@@ -1,0 +1,8 @@
+name: Effects
+version: 1.0
+main: me.happyorks.Effects.Main
+description: plays effects on command
+
+commands:
+    effect:
+        description: plays effect

@@ -1,0 +1,4 @@
+name: CrazyFallingBlocks
+version: 1.0
+main: me.happyorks.CrazyFallingBlocks.Main
+description: makes blocks fly on explosion

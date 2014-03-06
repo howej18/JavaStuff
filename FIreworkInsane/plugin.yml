@@ -1,0 +1,4 @@
+name: FireworkInsane
+version: 0.1
+main: me.happyorks.FireworkInsane.Main
+description: launches a firework on block break

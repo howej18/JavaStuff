@@ -1,0 +1,19 @@
+name: MOTD
+version: 2.0
+main: me.happyorks.MOTD.Main
+description: A simple message of the day
+
+commands:
+    motd:
+        usage: /<command>
+        description: view MOTD
+    setmotd:
+        usage: /<command>
+        description: set MOTD
+        
+        
+        
+permissions:
+    motd.set:
+        description: use the setmotd command to change the MOTD
+        default: op
